@@ -11,6 +11,8 @@
 2. npm install
 3. npm start
 
+### Test
+1. npm run test
 
 
 ### Postman Collection
