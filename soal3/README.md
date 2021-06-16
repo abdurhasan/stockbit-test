@@ -14,6 +14,8 @@
 ### Test
 1. npm run test
 
+## Deployed to  : 
+> https://stockbit-hasan.herokuapp.com
 
 ### Postman Collection
 https://www.getpostman.com/collections/9a6d641f650734702bf9
