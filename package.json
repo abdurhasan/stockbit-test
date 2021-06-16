@@ -10,7 +10,7 @@
     "test": "mocha --exit"
   },
   "keywords": [],
-  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "author": "github.com/abdurhasan",
   "repository": {
     "type": "git",
     "url": "https://github.com/w3cj/express-api-starter.git"
@@ -25,6 +25,10 @@
     "moment": "^2.29.1",
     "morgan": "^1.10.0",
     "mysql2": "^2.2.5"
+  },
+  "engines": {
+    "node": "v14.17.0",
+    "npm": "06.14.13"
   },
   "devDependencies": {
     "eslint": "^7.28.0",
