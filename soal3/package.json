@@ -1,7 +1,7 @@
 {
   "name": "stockbit",
   "version": "1.2.0",
-  "description": " A basic starter for an express.js API",
+  "description": " stockbit test",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -28,7 +28,7 @@
   },
   "engines": {
     "node": "v14.17.0",
-    "npm": "06.14.13"
+    "npm": "6.14.13"
   },
   "devDependencies": {
     "eslint": "^7.28.0",
