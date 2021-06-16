@@ -1,0 +1,10 @@
+interface IState {
+    [key: string]: {
+        data: any, // default null 
+        expiredTime: number // default 10 Minutes
+    }
+}
+
+
+default empty variable : null
+default cache expired time : 5 minutes
